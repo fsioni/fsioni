@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fsioni
 - 👀 I’m interested in web & game dev :)
-- 🌱 I’m currently learning lot of things at Uni + Symfony
+- 🌱 I’m currently learning lot of things at Uni
 - 💞️ I’m looking to collaborate on anything that I'll like
