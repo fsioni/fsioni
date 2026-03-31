@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/fsioni_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/x.svg" alt="fsioni_" height="28" width="28" /></a>
+<a href="https://x.com/fsioni_" target="_blank"><img align="center" src="https://cdn.simpleicons.org/x/ffffff" alt="fsioni_" height="28" width="28" style="background-color:black; border-radius:6px; padding:3px;" /></a>
 <a href="https://linkedin.com/in/sionifareslor" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sionifareslor" height="30" width="40" /></a>
 </p>
 
