@@ -14,11 +14,11 @@
   <tr>
     <td valign="top" width="50%">
       <h3>🌍 <a href="https://geoquizz.io" target="_blank">GeoQuizz</a></h3>
-      <p>Un jeu de quiz géographique interactif où les joueurs doivent identifier des lieux dans le monde entier à partir de photos. Testez vos connaissances des villes, paysages et monuments !</p>
+      <p>An interactive geography game featuring a 3D globe. Test your knowledge of countries, capitals, and flags while exploring different regions of the world in a fun and educational way.</p>
     </td>
     <td valign="top" width="50%">
       <h3>💻 <a href="https://costa-code.com" target="_blank">Costa Code</a></h3>
-      <p>Une plateforme dédiée au développement logiciel : ressources, articles et projets autour du code et de la programmation.</p>
+      <p>Professional web design & development agency based in Playa del Carmen, Mexico. Specializing in custom websites for local businesses in the Riviera Maya, with a functional prototype delivered within 48 hours and no initial commitment.</p>
     </td>
   </tr>
 </table>
